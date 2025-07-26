@@ -69,9 +69,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -86,9 +88,29 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
+		"RagdollImpactUpkick": 0,
+		"RagdollImpactUpKickGlobal": 0,
+		"SecondaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		}
+	},
+	"0e3dc26a-9eed-4aa1-b81e-d0c597b36737": {
+		"ActorConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -120,9 +142,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -185,9 +209,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 120,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 120,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -201,9 +227,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 120,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 120,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -217,9 +245,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -265,9 +295,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -297,9 +329,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 100,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 100,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -313,9 +347,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 100,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 100,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -409,9 +445,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -425,6 +463,7 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
@@ -441,9 +480,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -457,9 +498,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -473,9 +516,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -489,9 +534,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -505,9 +552,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -521,9 +570,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 80,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
@@ -537,9 +588,11 @@
 			"RagdollImpactUpKickGlobal": 0
 		},
 		"PrimaryConfiguration": {
+			"RagdollImpactForce": 25,
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		},
+		"RagdollImpactForce": 25,
 		"RagdollImpactUpkick": 0,
 		"RagdollImpactUpKickGlobal": 0,
 		"SecondaryConfiguration": {
