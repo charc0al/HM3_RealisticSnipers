@@ -1,9 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.25.1"
+	"updateCheck": "https://github.com/charc0al/HM3_RealisticSnipers/releases/latest/download/updates.json",
+	"id": "Charc0al.RealisticSnipers",
+	"name": "Realistic Sniper Impact",
+	"description": "Makes ragdoll effects from sniper hits more realistic, headshots no longer cause backflips.",
+	"authors": ["Charc0al"],
+	"frameworkVersion": "2.33.26",
+	"contentFolders": ["content/realsnipers"]
 }
