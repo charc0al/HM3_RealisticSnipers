@@ -7,5 +7,14 @@
 	"description": "Makes ragdoll effects from sniper hits more realistic, headshots no longer cause backflips.",
 	"authors": ["Charc0al"],
 	"frameworkVersion": "2.33.26",
-	"contentFolders": ["content/realsnipers"]
+	"contentFolders": ["content/realsnipers"],
+	"options": [
+		{
+			"name": "Magnum Pistols",
+			"tooltip": "Remove artificial upwards lift applied to El Matador and Striker pistols as well. They still retain their knockback.",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": ["content/no_upkick"]
+		}
+	]
 }
