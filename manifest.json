@@ -15,6 +15,20 @@
 			"group": "Other",
 			"type": "checkbox",
 			"contentFolders": ["content/no_upkick"]
+		},
+		{
+			"name": "Sniper Assassin - Remove Upkick",
+			"tooltip": "Remove artificial upwards lift applied to Sniper Assassin rifles. They still retain their knockback.",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": ["content/sniper_ass"]
+		},
+		{
+			"name": "Sniper Assassin - Reduced Impact Force",
+			"tooltip": "Lessens the knockback of Sniper Assassin rifles to a more realistic amount. WARNING: THIS MAKES SNIPER ASSASSIN QUITE HARD!",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": ["content/sniper_ass_impact"]
 		}
 	]
 }

@@ -1,37 +1,5 @@
 {
-	"c8b2d7ab-c952-4ad3-99fe-4627047318b9": {
-		"ActorConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		},
-		"PrimaryConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		},
-		"RagdollImpactUpkick": 0,
-		"RagdollImpactUpKickGlobal": 0,
-		"SecondaryConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		}
-	},
 	"f5e3a7ca-d0d3-421e-b341-b5ba46bc900f": {
-		"ActorConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		},
-		"PrimaryConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		},
-		"RagdollImpactUpkick": 0,
-		"RagdollImpactUpKickGlobal": 0,
-		"SecondaryConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		}
-	},
-	"2f209936-1427-43b6-9812-d6f60b24336f": {
 		"ActorConfiguration": {
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
@@ -81,7 +49,6 @@
 			"RagdollImpactUpKickGlobal": 0
 		}
 	},
-
 	"d5f8e067-5b44-4ddf-91e2-3c29e9222eae": {
 		"ActorConfiguration": {
 			"RagdollImpactUpKick": 0,
@@ -359,38 +326,6 @@
 			"RagdollImpactUpKickGlobal": 0
 		}
 	},
-	"2bb2fe71-370d-4af9-a941-0ed3ff70f5bb": {
-		"ActorConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		},
-		"PrimaryConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		},
-		"RagdollImpactUpkick": 0,
-		"RagdollImpactUpKickGlobal": 0,
-		"SecondaryConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		}
-	},
-	"8f4cd8c1-6ee6-4686-8a0e-52a823eec165": {
-		"ActorConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		},
-		"PrimaryConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		},
-		"RagdollImpactUpkick": 0,
-		"RagdollImpactUpKickGlobal": 0,
-		"SecondaryConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		}
-	},
 	"c0f72c92-f514-40b7-a35c-2f5709b99fce": {
 		"ActorConfiguration": {
 			"RagdollImpactUpKick": 0,
@@ -408,22 +343,6 @@
 		}
 	},
 	"82642e14-c6d7-43b3-8b9c-396823a2859a": {
-		"ActorConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		},
-		"PrimaryConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		},
-		"RagdollImpactUpkick": 0,
-		"RagdollImpactUpKickGlobal": 0,
-		"SecondaryConfiguration": {
-			"RagdollImpactUpKick": 0,
-			"RagdollImpactUpKickGlobal": 0
-		}
-	},
-	"a8471f57-0075-4c57-b67f-916f3e2e4738": {
 		"ActorConfiguration": {
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
