@@ -3,7 +3,7 @@
 	"version": "1.3.0",
 	"updateCheck": "https://github.com/charc0al/HM3_RealisticSnipers/releases/latest/download/updates.json",
 	"id": "Charc0al.RealisticSnipers",
-	"name": "Realistic Sniper Impact",
+	"name": "Realistic Snipers",
 	"description": "Makes ragdoll effects from sniper hits more realistic, headshots no longer cause backflips.",
 	"authors": ["Charc0al"],
 	"frameworkVersion": "2.33.26",
@@ -29,6 +29,13 @@
 			"group": "Other",
 			"type": "checkbox",
 			"contentFolders": ["content/sniper_ass_impact"]
+		},
+		{
+			"name": "Noscope - Precise blind fire",
+			"tooltip": "Firing blind (without scoping, either standing or from cover) is much more precise, where you can reliably hit targets.",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": ["content/noscope"]
 		}
 	]
 }
