@@ -1,0 +1,20 @@
+{
+    "3d681794-bd95-4340-9a18-59372a2239a0": {
+        "AppliedModifiers": [
+			"647638d9-6bcb-4cf4-8ba0-59c30a788ab9", 
+			"72cda501-1829-4326-b156-89fa3d6b15b6"
+		],
+        "AudioHeadType": "eWBC_AudioHeadTailType_Silenced",
+        "AudioTailType": "eWBC_AudioHeadTailType_Silenced",
+        "ModelBodyPartSelections": [1, 0, 0, 0, 2, 1, 0],
+		"ModelSkinSelections":     [2, 3, 3, 3, 1, 0, 0],
+        "ModelMuzzleExtensionSelection": 3,
+		"ModelMuzzleExtensionSkinSelection": 1,
+		"ModelScopeSelection": 2.0,
+		"ModelScopeSkinSelection": 3,
+        "Perks": [
+            "suppressor",
+            "subsonic"
+        ]
+    }
+}

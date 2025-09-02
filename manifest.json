@@ -36,6 +36,20 @@
 			"group": "Other",
 			"type": "checkbox",
 			"contentFolders": ["content/noscope"]
+		},
+		{
+			"name": "Replace | Jaeger Mk2 -> AWM Jungle",
+			"tooltip": "A nice suppressed camo rifle to replace the duplicate Jaeger Mk2 rifle",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": ["content/jaegermk2"],
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"1901215995": "AWM Jungle"
+					}
+				}
+			}
 		}
 	]
 }
