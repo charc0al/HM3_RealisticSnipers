@@ -1,25 +1,20 @@
 {
-    "3d681794-bd95-4340-9a18-59372a2239a0": {
-        "AppliedModifiers": [
-			"647638d9-6bcb-4cf4-8ba0-59c30a788ab9", 
+	"3d681794-bd95-4340-9a18-59372a2239a0": {
+		"AppliedModifiers": [
+			"647638d9-6bcb-4cf4-8ba0-59c30a788ab9",
 			"72cda501-1829-4326-b156-89fa3d6b15b6",
 			"626686f9-a60a-4795-b826-2f66186e5f9d",
 			"c8aad8a0-0ebf-4c17-bf9c-9e9256571eeb",
 			"d5f22cba-258c-426f-9bd2-c153a5839fd1"
 		],
-        "AudioHeadType": "eWBC_AudioHeadTailType_Silenced",
-        "AudioTailType": "eWBC_AudioHeadTailType_Silenced",
-        "ModelBodyPartSelections": [1, 0, 0, 0, 2, 1, 0],
-		"ModelSkinSelections":     [2, 3, 3, 3, 1, 0, 0],
-        "ModelMuzzleExtensionSelection": 3,
+		"AudioHeadType": "eWBC_AudioHeadTailType_Silenced",
+		"AudioTailType": "eWBC_AudioHeadTailType_Silenced",
+		"ModelBodyPartSelections": [1, 0, 0, 0, 2, 1, 0],
+		"ModelSkinSelections": [2, 3, 3, 3, 1, 0, 0],
+		"ModelMuzzleExtensionSelection": 3,
 		"ModelMuzzleExtensionSkinSelection": 1,
 		"ModelScopeSelection": 2.0,
 		"ModelScopeSkinSelection": 3,
-		"Perks": [
-            "subsonic",
-			"marksman",
-			"suppressor",
-			"versatilescope"
-        ]
-    }
+		"Perks": ["subsonic", "marksman", "suppressor", "versatilescope"]
+	}
 }
