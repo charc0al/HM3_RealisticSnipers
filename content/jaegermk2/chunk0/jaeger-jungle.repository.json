@@ -10,20 +10,14 @@
 			"a5ade0d6-c19d-4f08-a476-9b47ec3bca93"
 		],
 		"ActorConfiguration": {
-            "MagazineConfigs": [
-                "1d43a4aa-1bdb-4318-b97f-ebb2427d63cf"
-            ]
-        },
-        "PrimaryConfiguration": {
-            "MagazineConfigs": [
-                "1d43a4aa-1bdb-4318-b97f-ebb2427d63cf"
-            ]
-        },
-        "SecondaryConfiguration": {
-            "MagazineConfigs": [
-                "1d43a4aa-1bdb-4318-b97f-ebb2427d63cf"
-            ]
-        },
+			"MagazineConfigs": ["1d43a4aa-1bdb-4318-b97f-ebb2427d63cf"]
+		},
+		"PrimaryConfiguration": {
+			"MagazineConfigs": ["1d43a4aa-1bdb-4318-b97f-ebb2427d63cf"]
+		},
+		"SecondaryConfiguration": {
+			"MagazineConfigs": ["1d43a4aa-1bdb-4318-b97f-ebb2427d63cf"]
+		},
 		"AudioHeadType": "eWBC_AudioHeadTailType_Silenced",
 		"AudioTailType": "eWBC_AudioHeadTailType_Silenced",
 		"ModelBodyPartSelections": [1, 0, 0, 0, 2, 1, 0],
