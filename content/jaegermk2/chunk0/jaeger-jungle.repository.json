@@ -5,8 +5,25 @@
 			"72cda501-1829-4326-b156-89fa3d6b15b6",
 			"626686f9-a60a-4795-b826-2f66186e5f9d",
 			"c8aad8a0-0ebf-4c17-bf9c-9e9256571eeb",
-			"d5f22cba-258c-426f-9bd2-c153a5839fd1"
+			"d5f22cba-258c-426f-9bd2-c153a5839fd1",
+			"0ade8d9c-70d9-482d-914b-38afd93b9f63",
+			"a5ade0d6-c19d-4f08-a476-9b47ec3bca93"
 		],
+		"ActorConfiguration": {
+            "MagazineConfigs": [
+                "1d43a4aa-1bdb-4318-b97f-ebb2427d63cf"
+            ]
+        },
+        "PrimaryConfiguration": {
+            "MagazineConfigs": [
+                "1d43a4aa-1bdb-4318-b97f-ebb2427d63cf"
+            ]
+        },
+        "SecondaryConfiguration": {
+            "MagazineConfigs": [
+                "1d43a4aa-1bdb-4318-b97f-ebb2427d63cf"
+            ]
+        },
 		"AudioHeadType": "eWBC_AudioHeadTailType_Silenced",
 		"AudioTailType": "eWBC_AudioHeadTailType_Silenced",
 		"ModelBodyPartSelections": [1, 0, 0, 0, 2, 1, 0],
@@ -15,6 +32,6 @@
 		"ModelMuzzleExtensionSkinSelection": 1,
 		"ModelScopeSelection": 2.0,
 		"ModelScopeSkinSelection": 3,
-		"Perks": ["subsonic", "marksman", "suppressor", "versatilescope"]
+		"Perks": ["subsonic", "marksman", "suppressor", "versatilescope", "piercing"]
 	}
 }
