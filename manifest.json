@@ -51,6 +51,14 @@
 					}
 				}
 			}
+		},
+		{
+			"name": "Replace | Jaeger 7 Tiger -> Jager 7 Tiger Covert",
+			"tooltip": "Adds a suppressor to the Jager 7 tiger since there's already enough loud snipers and this one looks cool. Also adds piercing and scope zoom, just for fun.",
+			"group": "Other",
+			"type": "checkbox",
+			"image": "smf/tiger.webp",
+			"contentFolders": ["content/tiger"]
 		}
 	]
 }
