@@ -17,6 +17,13 @@
 			"contentFolders": ["content/no_upkick"]
 		},
 		{
+			"name": "Sieger 300 Advanced",
+			"tooltip": "Makes the Sieger 300 Advanced have realistic knockback as well. This one is vanilla by default so you can have 1 ridiculous rifle if you need.",
+			"group": "Other",
+			"type": "checkbox",
+			"contentFolders": ["content/avemaria"]
+		},
+		{
 			"name": "Sniper Assassin - Remove Upkick",
 			"tooltip": "Remove artificial upwards lift applied to Sniper Assassin rifles. They still retain their knockback.",
 			"group": "Other",

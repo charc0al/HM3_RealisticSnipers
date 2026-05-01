@@ -518,5 +518,23 @@
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		}
+	},
+	"559d8002-9dc5-4da7-ab54-18c8ad20f047": {
+		"ActorConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"PrimaryConfiguration": {
+			"RagdollImpactForce": 50,
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"RagdollImpactForce": 50,
+		"RagdollImpactUpkick": 0,
+		"RagdollImpactUpKickGlobal": 0,
+		"SecondaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		}
 	}
 }

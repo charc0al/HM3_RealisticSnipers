@@ -1,0 +1,20 @@
+{
+	"907e0277-7806-42a4-b4b2-338cf8dd9391": {
+		"ActorConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"PrimaryConfiguration": {
+			"RagdollImpactForce": 80,
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"RagdollImpactForce": 80,
+		"RagdollImpactUpkick": 0,
+		"RagdollImpactUpKickGlobal": 0,
+		"SecondaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		}
+	}
+}
