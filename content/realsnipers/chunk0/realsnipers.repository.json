@@ -536,5 +536,22 @@
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		}
-	}
+	},
+	"1b73794b-ff9c-4d04-9454-4b32c9a9d2d3": {
+        "CommonName": "(Sniper) Sports Pack - Rifle!",
+		"ActorConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"PrimaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"RagdollImpactUpkick": 0,
+		"RagdollImpactUpKickGlobal": 0,
+		"SecondaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		}
+    }
 }
