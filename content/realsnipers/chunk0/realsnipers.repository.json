@@ -538,7 +538,58 @@
 		}
 	},
 	"1b73794b-ff9c-4d04-9454-4b32c9a9d2d3": {
-		"CommonName": "(Sniper) Sports Pack - Rifle!",
+		"CommonName": "(Sniper) Sports Pack - Rifle",
+		"ActorConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"PrimaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"RagdollImpactUpkick": 0,
+		"RagdollImpactUpKickGlobal": 0,
+		"SecondaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		}
+	},
+	"80407440-c8e3-43cc-8da3-afbe217793a5": {
+		"CommonName": "Druzhina 34 ICA Exclusive",
+		"ActorConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"PrimaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"RagdollImpactUpkick": 0,
+		"RagdollImpactUpKickGlobal": 0,
+		"SecondaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		}
+	},
+	"80407440-c8e3-43cc-8da3-afbe217793a5": {
+		"CommonName": "Druzhina 34 ICA Arctic Exclusive",
+		"ActorConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"PrimaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"RagdollImpactUpkick": 0,
+		"RagdollImpactUpKickGlobal": 0,
+		"SecondaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		}
+	},
+	"fdd80c99-d7e5-4641-99bb-1809dd084741": {
+		"CommonName": "Sieger 300 Summer",
 		"ActorConfiguration": {
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
