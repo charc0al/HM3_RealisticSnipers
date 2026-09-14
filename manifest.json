@@ -1,71 +1,89 @@
 {
-	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "1.8.0",
-	"updateCheck": "https://github.com/charc0al/HM3_RealisticSnipers/releases/latest/download/updates.json",
-	"id": "Charc0al.RealisticSnipers",
-	"name": "Realistic Snipers",
-	"description": "Makes ragdoll effects from sniper hits more realistic, headshots no longer cause backflips.",
-	"authors": ["Charc0al"],
-	"frameworkVersion": "2.33.27",
-	"contentFolders": ["content/realsnipers"],
-	"options": [
-		{
-			"name": "Magnum Pistols",
-			"tooltip": "Remove artificial upwards lift applied to El Matador and Striker pistols as well. They still retain their knockback.",
-			"group": "Other",
-			"type": "checkbox",
-			"contentFolders": ["content/no_upkick"]
-		},
-		{
-			"name": "Sieger 300 Advanced",
-			"tooltip": "Makes the Sieger 300 Advanced have realistic knockback as well. This one is vanilla by default so you can have 1 ridiculous rifle if you need.",
-			"group": "Other",
-			"type": "checkbox",
-			"contentFolders": ["content/avemaria"]
-		},
-		{
-			"name": "Sniper Assassin - Remove Upkick",
-			"tooltip": "Remove artificial upwards lift applied to Sniper Assassin rifles. They still retain their knockback.",
-			"group": "Other",
-			"type": "checkbox",
-			"contentFolders": ["content/sniper_ass"]
-		},
-		{
-			"name": "Sniper Assassin - Reduced Impact Force",
-			"tooltip": "Lessens the knockback of Sniper Assassin rifles to a more realistic amount. WARNING: THIS MAKES SNIPER ASSASSIN QUITE HARD!",
-			"group": "Other",
-			"type": "checkbox",
-			"contentFolders": ["content/sniper_ass_impact"]
-		},
-		{
-			"name": "Noscope - Precise blind fire",
-			"tooltip": "Firing blind (without scoping, either standing or from cover) is much more precise, where you can reliably hit targets.",
-			"group": "Other",
-			"type": "checkbox",
-			"contentFolders": ["content/noscope"]
-		},
-		{
-			"name": "Replace | Jaeger Mk2 -> AWM Jungle",
-			"tooltip": "A nice suppressed camo rifle to replace the duplicate Jaeger Mk2 rifle",
-			"group": "Other",
-			"type": "checkbox",
-			"image": "smf/jungle.webp",
-			"contentFolders": ["content/jaegermk2"],
-			"localisationOverrides": {
-				"0072D1A320470342": {
-					"english": {
-						"1901215995": "AWM Jungle"
-					}
-				}
-			}
-		},
-		{
-			"name": "Replace | Jaeger 7 Tiger -> Jager 7 Tiger Covert",
-			"tooltip": "Adds a suppressor to the Jager 7 tiger since there's already enough loud snipers and this one looks cool. Also adds piercing and scope zoom, just for fun.",
-			"group": "Other",
-			"type": "checkbox",
-			"image": "smf/tiger.webp",
-			"contentFolders": ["content/tiger"]
-		}
-	]
+  "$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
+  "version": "1.9.0",
+  "updateCheck": "https://github.com/charc0al/HM3_RealisticSnipers/releases/latest/download/updates.json",
+  "id": "Charc0al.RealisticSnipers",
+  "name": "Realistic Snipers",
+  "description": "Makes ragdoll effects from sniper hits more realistic, headshots no longer cause backflips.",
+  "authors": [
+    "Charc0al"
+  ],
+  "frameworkVersion": "2.33.27",
+  "contentFolders": [
+    "content/realsnipers"
+  ],
+  "options": [
+    {
+      "name": "Magnum Pistols",
+      "tooltip": "Remove artificial upwards lift applied to El Matador and Striker pistols as well. They still retain their knockback.",
+      "group": "Other",
+      "type": "checkbox",
+      "contentFolders": [
+        "content/no_upkick"
+      ]
+    },
+    {
+      "name": "Sieger 300 Advanced",
+      "tooltip": "Makes the Sieger 300 Advanced have realistic knockback as well. This one is vanilla by default so you can have 1 ridiculous rifle if you need.",
+      "group": "Other",
+      "type": "checkbox",
+      "contentFolders": [
+        "content/avemaria"
+      ]
+    },
+    {
+      "name": "Sniper Assassin - Remove Upkick",
+      "tooltip": "Remove artificial upwards lift applied to Sniper Assassin rifles. They still retain their knockback.",
+      "group": "Other",
+      "type": "checkbox",
+      "contentFolders": [
+        "content/sniper_ass"
+      ]
+    },
+    {
+      "name": "Sniper Assassin - Reduced Impact Force",
+      "tooltip": "Lessens the knockback of Sniper Assassin rifles to a more realistic amount. WARNING: THIS MAKES SNIPER ASSASSIN QUITE HARD!",
+      "group": "Other",
+      "type": "checkbox",
+      "contentFolders": [
+        "content/sniper_ass_impact"
+      ]
+    },
+    {
+      "name": "Noscope - Precise blind fire",
+      "tooltip": "Firing blind (without scoping, either standing or from cover) is much more precise, where you can reliably hit targets.",
+      "group": "Other",
+      "type": "checkbox",
+      "contentFolders": [
+        "content/noscope"
+      ]
+    },
+    {
+      "name": "Replace | Jaeger Mk2 -> AWM Jungle",
+      "tooltip": "A nice suppressed camo rifle to replace the duplicate Jaeger Mk2 rifle",
+      "group": "Other",
+      "type": "checkbox",
+      "image": "smf/jungle.webp",
+      "contentFolders": [
+        "content/jaegermk2"
+      ],
+      "localisationOverrides": {
+        "0072D1A320470342": {
+          "english": {
+            "1901215995": "AWM Jungle"
+          }
+        }
+      }
+    },
+    {
+      "name": "Replace | Jaeger 7 Tiger -> Jager 7 Tiger Covert",
+      "tooltip": "Adds a suppressor to the Jager 7 tiger since there's already enough loud snipers and this one looks cool. Also adds piercing and scope zoom, just for fun.",
+      "group": "Other",
+      "type": "checkbox",
+      "image": "smf/tiger.webp",
+      "contentFolders": [
+        "content/tiger"
+      ]
+    }
+  ]
 }
