@@ -15,7 +15,7 @@
   "options": [
     {
       "name": "Magnum Pistols",
-      "tooltip": "Remove artificial upwards lift applied to El Matador and Striker pistols as well. They still retain their knockback.",
+      "tooltip": "Remove artificial upwards lift applied to El Matador and Striker, and the new 50AE and Redline pistols. They still retain their knockback.",
       "group": "Other",
       "type": "checkbox",
       "contentFolders": [

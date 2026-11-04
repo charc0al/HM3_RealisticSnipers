@@ -62,5 +62,39 @@
 			"RagdollImpactUpKick": 0,
 			"RagdollImpactUpKickGlobal": 0
 		}
-	}
+	},
+	"577a6ef7-bdca-4b84-97af-24a44fa5287e": {
+        "CommonName": "(COMIC) Firearms_Pistol_Hero_50AE_A",
+        "ActorConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"PrimaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"RagdollImpactUpkick": 0,
+		"RagdollImpactUpKickGlobal": 0,
+		"SecondaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		}
+    },
+    "90ad1bbd-0fdf-4b35-9043-ca4fd1042a85": {
+        "CommonName": "(COMIC) Concept 5 Redline",
+        "ActorConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"PrimaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		},
+		"RagdollImpactUpkick": 0,
+		"RagdollImpactUpKickGlobal": 0,
+		"SecondaryConfiguration": {
+			"RagdollImpactUpKick": 0,
+			"RagdollImpactUpKickGlobal": 0
+		}
+    }
 }
