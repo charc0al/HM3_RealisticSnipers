@@ -5,4 +5,4 @@ Makes ragdoll effects from sniper hits more realistic, headshots no longer cause
 
 ---
 
-`Charc0al.RealisticSnipers` v1.9.0, by Charc0al. This README was automatically generated from the mod's manifest.
+`Charc0al.RealisticSnipers` v1.9.1, by Charc0al. This README was automatically generated from the mod's manifest.
